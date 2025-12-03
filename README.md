@@ -1,6 +1,4 @@
-"# Drafter-py_langgraph"
-
-# Drafter-py_langgraph
+# Document-Drafter_langgraph
 
 A minimal **LangGraph**-powered document drafting assistant. It uses a Gemini model via `langchain_google_genai` and two tools—`update` and `save`—to edit an in-memory document and optionally write it to a `.txt` file.
 
